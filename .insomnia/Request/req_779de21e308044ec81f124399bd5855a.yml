@@ -1,12 +1,12 @@
-_id: req_13e2c0694c184559aa63e23f9ecb3113
+_id: req_779de21e308044ec81f124399bd5855a
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1671793615790
-created: 1669023358659
-url: http://localhost:3000/user
-name: 사용자 등록
+modified: 1671793919656
+created: 1671793865147
+url: http://localhost:3000/user/1
+name: 사용자 정보 변경 (userIdx)
 description: ""
-method: POST
+method: PATCH
 body:
   mimeType: application/json
   text: |-
@@ -24,9 +24,10 @@ parameters: []
 headers:
   - name: Content-Type
     value: application/json
-    id: pair_a2a86671d4214bd6afd5a80337ffc250
-authentication: {}
-metaSortKey: -1671792149454
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi6rCc67Cc7J6QIiwic3ViIjoxLCJpYXQiOjE2NzE3OTA4NjcsImV4cCI6MTY3MTg3NzI2N30.1ZK2HtWwybx3FBCSAVTz8suMFhXxFqbpbLhnGszeZig
+metaSortKey: -1671791542952.75
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
