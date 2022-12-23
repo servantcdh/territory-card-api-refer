@@ -1,0 +1,23 @@
+_id: req_d5d59102b48a40e9b45df74854280b1b
+type: Request
+parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
+modified: 1671791022994
+created: 1671790925332
+url: http://localhost:3000/file/card/1
+name: 구역 카드 다운로드
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi6rCc67Cc7J6QIiwic3ViIjoxLCJpYXQiOjE2NzE3OTA4NjcsImV4cCI6MTY3MTg3NzI2N30.1ZK2HtWwybx3FBCSAVTz8suMFhXxFqbpbLhnGszeZig
+metaSortKey: -1671790925332
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

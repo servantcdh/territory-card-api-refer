@@ -1,0 +1,23 @@
+_id: req_2e50c68a5e4d4d9698bb1c87961bfe52
+type: Request
+parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
+modified: 1671792184780
+created: 1671792149404
+url: http://localhost:3000/user
+name: 사용자 (세션)
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi6rCc67Cc7J6QIiwic3ViIjoxLCJpYXQiOjE2NzE3OTA4NjcsImV4cCI6MTY3MTg3NzI2N30.1ZK2HtWwybx3FBCSAVTz8suMFhXxFqbpbLhnGszeZig
+metaSortKey: -1671792149404
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

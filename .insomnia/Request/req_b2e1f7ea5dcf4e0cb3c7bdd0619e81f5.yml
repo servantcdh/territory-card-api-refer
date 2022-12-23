@@ -1,0 +1,35 @@
+_id: req_b2e1f7ea5dcf4e0cb3c7bdd0619e81f5
+type: Request
+parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
+modified: 1671792268763
+created: 1671786917685
+url: http://localhost:3000/auth/refreshToken
+name: 인증 토큰 갱신
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+    	"refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi6rCc67Cc7J6QIiwic3ViIjoxLCJpYXQiOjE2NzE3OTA4NjcsImV4cCI6MTY3NDM4Mjg2N30.Sfdmh88E9RHiravsDB5q13252lPmWLSsd9BVDzzJxZQ"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_fb48c1fa31ca4f60adbed85c5d2484cd
+  - id: pair_1d93e43733274ada8f830de84ca1f9d6
+    name: ""
+    value: ""
+    description: ""
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi6rCc67Cc7J6QIiwic3ViIjoxLCJpYXQiOjE2NzE3ODc3NDUsImV4cCI6MTY3MTc4Nzc0Nn0.aYKssud5Qt6oW5waXBcFYyanMSrBXYL08QQeI7Ab-5Y
+metaSortKey: -1671792149416.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
