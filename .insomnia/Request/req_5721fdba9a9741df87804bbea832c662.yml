@@ -1,9 +1,9 @@
 _id: req_5721fdba9a9741df87804bbea832c662
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1672019126941
+modified: 1672034689175
 created: 1671793435659
-url: http://localhost:3000/user
+url: http://localhost:3000/user/one
 name: 사용자 정보 변경 (세션)
 description: ""
 method: PATCH
@@ -11,7 +11,7 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"name": "개발자",
+    	"name": "최동호",
     	"password": "1234",
     	"gender": true,
     	"guide": true,
@@ -26,7 +26,7 @@ headers:
     value: application/json
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi6rCc67Cc7J6QIiwic3ViIjoxLCJpYXQiOjE2NzE3OTA4NjcsImV4cCI6MTY3MTg3NzI2N30.1ZK2HtWwybx3FBCSAVTz8suMFhXxFqbpbLhnGszeZig
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi6rCc67Cc7J6QIiwic3ViIjoxLCJpYXQiOjE2NzIwMTg4NzksImV4cCI6MTY3MjEwNTI3OX0.NLL1ZEFTYPEaOgeaUwXgBtLwPKbkf5yqtouHa3cBZU4
 metaSortKey: -1671791640113.5
 isPrivate: false
 settingStoreCookies: true

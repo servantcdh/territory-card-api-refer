@@ -1,9 +1,9 @@
 _id: req_db3eb24a36f045f2badd1ad3cc8e24e0
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1672033771851
+modified: 1672034759021
 created: 1672033411412
-url: http://localhost:3000/user?search=개발자
+url: http://localhost:3000/user?name=최동호
 name: 사용자 검색
 description: ""
 method: GET

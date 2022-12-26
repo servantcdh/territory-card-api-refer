@@ -1,7 +1,7 @@
 _id: req_2e50c68a5e4d4d9698bb1c87961bfe52
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1672033596587
+modified: 1672034664085
 created: 1671792149404
 url: http://localhost:3000/user/one
 name: 사용자 상세 (세션)
