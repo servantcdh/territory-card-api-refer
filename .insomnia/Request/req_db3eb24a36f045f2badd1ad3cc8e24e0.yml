@@ -1,10 +1,10 @@
-_id: req_2e50c68a5e4d4d9698bb1c87961bfe52
+_id: req_db3eb24a36f045f2badd1ad3cc8e24e0
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1672033596587
-created: 1671792149404
-url: http://localhost:3000/user/one
-name: 사용자 상세 (세션)
+modified: 1672033771851
+created: 1672033411412
+url: http://localhost:3000/user?search=개발자
+name: 사용자 검색
 description: ""
 method: GET
 body: {}
@@ -13,7 +13,7 @@ headers: []
 authentication:
   type: bearer
   token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi6rCc67Cc7J6QIiwic3ViIjoxLCJpYXQiOjE2NzIwMTg4NzksImV4cCI6MTY3MjEwNTI3OX0.NLL1ZEFTYPEaOgeaUwXgBtLwPKbkf5yqtouHa3cBZU4
-metaSortKey: -1671792149404
+metaSortKey: -1671792149405.5625
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
