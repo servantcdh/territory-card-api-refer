@@ -1,7 +1,7 @@
 _id: req_5721fdba9a9741df87804bbea832c662
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1671793919212
+modified: 1672019126941
 created: 1671793435659
 url: http://localhost:3000/user
 name: 사용자 정보 변경 (세션)
