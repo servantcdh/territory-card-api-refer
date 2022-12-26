@@ -1,7 +1,7 @@
 _id: req_1cd633513b7e440c9671a0b86a882adc
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1672027222176
+modified: 1672051037916
 created: 1671791057149
 url: http://localhost:3000/file/card
 name: 구역 카드 업로드
@@ -16,7 +16,7 @@ body:
       description: ""
       type: file
       multiline: null
-      fileName: /Users/choidongho/Downloads/card_form1신규.xlsx
+      fileName: /Users/choidongho/Downloads/card_1.xlsx
 parameters: []
 headers:
   - name: Content-Type

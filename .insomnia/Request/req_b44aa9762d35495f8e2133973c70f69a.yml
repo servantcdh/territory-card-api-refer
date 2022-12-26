@@ -1,7 +1,7 @@
 _id: req_b44aa9762d35495f8e2133973c70f69a
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1672030701887
+modified: 1672043631526
 created: 1672023061058
 url: http://localhost:3000/card/tag?orderBy=tag
 name: 해시 태그
