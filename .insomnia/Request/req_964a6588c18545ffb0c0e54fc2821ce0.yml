@@ -1,9 +1,9 @@
 _id: req_964a6588c18545ffb0c0e54fc2821ce0
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1672037748887
+modified: 1672106694484
 created: 1671892025530
-url: http://localhost:3000/card?tags=만관부,최동호&tagsIgnored=아파트
+url: http://localhost:3000/card?tags=계단식,최동호&tagsIgnored=아파트
 name: 구역 카드 검색
 description: ""
 method: GET
@@ -12,7 +12,7 @@ parameters: []
 headers: []
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi6rCc67Cc7J6QIiwic3ViIjoxLCJpYXQiOjE2NzIwMTg4NzksImV4cCI6MTY3MjEwNTI3OX0.NLL1ZEFTYPEaOgeaUwXgBtLwPKbkf5yqtouHa3cBZU4
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzIxMDU0MjMsImV4cCI6MTY3MjE5MTgyM30.EwHuoW9WVcXte5buft7fB2g43U8kKsYEhdMAFJe_RNc
 metaSortKey: -1671790925282
 isPrivate: false
 settingStoreCookies: true

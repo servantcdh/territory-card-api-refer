@@ -1,17 +1,17 @@
-_id: req_9a3b3664bf9c4dc59b32f6f1044bb48d
+_id: req_3973a282eae84d84b6eddb676505ea48
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1672106725538
-created: 1672043100798
-url: http://localhost:3000/assign/card
-name: 카드 배정
+modified: 1672109810180
+created: 1672100813700
+url: http://localhost:3000/record/1/2
+name: 카드 기록
 description: ""
 method: POST
 body:
   mimeType: application/json
-  text: |
+  text: |-
     {
-    	"cardIdx": 1
+    	"cardMarkIdx": 1
     }
 parameters: []
 headers:
@@ -19,8 +19,8 @@ headers:
     value: application/json
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzIxMDU0MjMsImV4cCI6MTY3MjE5MTgyM30.EwHuoW9WVcXte5buft7fB2g43U8kKsYEhdMAFJe_RNc
-metaSortKey: -1671790925157
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzIxMDA5NDQsImV4cCI6MTY3MjE4NzM0NH0.hjBzjBBWcxcyWVPlpyTB0ipfl4I6gGY2TC2cckjdX4U
+metaSortKey: -1671790925099.1875
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

@@ -1,26 +1,19 @@
-_id: req_9a3b3664bf9c4dc59b32f6f1044bb48d
+_id: req_d6e522235fda4127b8d004ee8d124e2c
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1672106725538
-created: 1672043100798
-url: http://localhost:3000/assign/card
-name: 카드 배정
+modified: 1672109440958
+created: 1672109399051
+url: http://localhost:3000/assign/card/1
+name: 배정된 카드 상세
 description: ""
-method: POST
-body:
-  mimeType: application/json
-  text: |
-    {
-    	"cardIdx": 1
-    }
+method: GET
+body: {}
 parameters: []
-headers:
-  - name: Content-Type
-    value: application/json
+headers: []
 authentication:
   type: bearer
   token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzIxMDU0MjMsImV4cCI6MTY3MjE5MTgyM30.EwHuoW9WVcXte5buft7fB2g43U8kKsYEhdMAFJe_RNc
-metaSortKey: -1671790925157
+metaSortKey: -1671790925151.9219
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
