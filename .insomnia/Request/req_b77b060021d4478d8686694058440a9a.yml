@@ -1,26 +1,19 @@
-_id: req_3973a282eae84d84b6eddb676505ea48
+_id: req_b77b060021d4478d8686694058440a9a
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1672122018579
-created: 1672100813700
-url: http://localhost:3000/record/1/2
-name: 카드 기록
+modified: 1672153791820
+created: 1672153710803
+url: http://localhost:3000/record/s-13/2022
+name: 구역 배정 기록 검색
 description: ""
-method: POST
-body:
-  mimeType: application/json
-  text: |-
-    {
-    	"cardMarkIdx": 1
-    }
+method: GET
+body: {}
 parameters: []
-headers:
-  - name: Content-Type
-    value: application/json
+headers: []
 authentication:
   type: bearer
   token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzIxMDA5NDQsImV4cCI6MTY3MjE4NzM0NH0.hjBzjBBWcxcyWVPlpyTB0ipfl4I6gGY2TC2cckjdX4U
-metaSortKey: -1671790925099.1875
+metaSortKey: -1671790925049.1875
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
