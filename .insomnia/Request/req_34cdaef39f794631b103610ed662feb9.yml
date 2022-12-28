@@ -1,10 +1,10 @@
-_id: req_b77b060021d4478d8686694058440a9a
+_id: req_34cdaef39f794631b103610ed662feb9
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1672238030723
-created: 1672153710803
-url: http://localhost:3000/record/s-13/2022
-name: 구역 배정 기록 검색
+modified: 1672238025578
+created: 1672237926422
+url: http://localhost:3000/file/s-13/2022
+name: 구역 배정 기록 다운로드
 description: ""
 method: GET
 body: {}
@@ -13,7 +13,7 @@ headers: []
 authentication:
   type: bearer
   token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzIyMzgwMTksImV4cCI6MTY3MjMyNDQxOX0.aUCNCeNK6oz2AnkZT80YNZ7sMDp2f1JW3CX32Sb_7v0
-metaSortKey: -1671790925049.1875
+metaSortKey: -1671790924999.1875
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
