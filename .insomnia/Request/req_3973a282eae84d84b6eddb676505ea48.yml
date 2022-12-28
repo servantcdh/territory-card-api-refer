@@ -1,7 +1,7 @@
 _id: req_3973a282eae84d84b6eddb676505ea48
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1672122018579
+modified: 1672157354054
 created: 1672100813700
 url: http://localhost:3000/record/1/2
 name: 카드 기록
