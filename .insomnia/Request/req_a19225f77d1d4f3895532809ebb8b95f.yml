@@ -1,0 +1,33 @@
+_id: req_a19225f77d1d4f3895532809ebb8b95f
+type: Request
+parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
+modified: 1672291427966
+created: 1672282149715
+url: http://localhost:3000/file/profile
+name: 프로필 사진 업로드
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_0979c816f11d494aa25659e6ce6a9dce
+      name: profile
+      value: ""
+      description: ""
+      type: file
+      fileName: /Users/choidongho/Desktop/territoryCard/profile.jpeg
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzIyODIyMzcsImV4cCI6MTY3MjM2ODYzN30.BzWL8fUo6oc3Pik6ynWZ2ywh107bzlucABYXVZVdHig
+metaSortKey: -1671792149408.6875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
