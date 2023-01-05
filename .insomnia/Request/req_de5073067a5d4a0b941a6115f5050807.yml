@@ -1,7 +1,7 @@
 _id: req_de5073067a5d4a0b941a6115f5050807
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1672292496468
+modified: 1672894295984
 created: 1672017966712
 url: http://localhost:3000/auth/access
 name: 접속 상태 변경
@@ -11,7 +11,7 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"car": false,
+    	"car": true,
     	"live": true
     }
 parameters: []
@@ -20,7 +20,7 @@ headers:
     value: application/json
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi6rCc67Cc7J6QIiwic3ViIjoxLCJpYXQiOjE2NzIwMTg4NzksImV4cCI6MTY3MjEwNTI3OX0.NLL1ZEFTYPEaOgeaUwXgBtLwPKbkf5yqtouHa3cBZU4
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzI3MjEwODAsImV4cCI6MTY3MjgwNzQ4MH0.BGNqedGdxa5nSv8a6SoBPyVFxhNeLoVpwvM8Vck_JuY
 metaSortKey: -1671792149410.25
 isPrivate: false
 settingStoreCookies: true

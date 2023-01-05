@@ -1,7 +1,7 @@
 _id: req_db3eb24a36f045f2badd1ad3cc8e24e0
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1672292462428
+modified: 1672721088303
 created: 1672033411412
 url: http://localhost:3000/user
 name: 사용자 검색
@@ -12,7 +12,7 @@ parameters: []
 headers: []
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzIyODIyMzcsImV4cCI6MTY3MjM2ODYzN30.BzWL8fUo6oc3Pik6ynWZ2ywh107bzlucABYXVZVdHig
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzI3MjEwODAsImV4cCI6MTY3MjgwNzQ4MH0.BGNqedGdxa5nSv8a6SoBPyVFxhNeLoVpwvM8Vck_JuY
 metaSortKey: -1671792149405.5625
 isPrivate: false
 settingStoreCookies: true
