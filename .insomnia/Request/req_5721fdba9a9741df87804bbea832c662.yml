@@ -1,7 +1,7 @@
 _id: req_5721fdba9a9741df87804bbea832c662
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1672035423435
+modified: 1672926869087
 created: 1671793435659
 url: http://localhost:3000/user/one
 name: 사용자 정보 변경 (세션)
@@ -26,7 +26,7 @@ headers:
     value: application/json
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi6rCc67Cc7J6QIiwic3ViIjoxLCJpYXQiOjE2NzIwMTg4NzksImV4cCI6MTY3MjEwNTI3OX0.NLL1ZEFTYPEaOgeaUwXgBtLwPKbkf5yqtouHa3cBZU4
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzI5MjY4NDcsImV4cCI6MTY3MzAxMzI0N30.XLmQh3YVpIWgN4wnz2M1zm3l3o88RQbeGXTK1N1yb7M
 metaSortKey: -1671791640113.5
 isPrivate: false
 settingStoreCookies: true

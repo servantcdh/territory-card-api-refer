@@ -1,17 +1,19 @@
-_id: req_016ac7668aac4e00b456598b5bbb72b1
+_id: req_46ffae75541f4e8cafe1f6841e6fa153
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1673018904578
-created: 1672047350856
-url: http://localhost:3000/assign/card/8
-name: 대표전도인 배정
+modified: 1673022958041
+created: 1673022645816
+url: http://localhost:3000/card/one/1
+name: 구역 카드 업데이트
 description: ""
 method: PATCH
 body:
   mimeType: application/json
-  text: |
+  text: |-
     {
-    	"userIdx": 1
+    	"name": "영통빌리지",
+    	"memo": "",
+    	"status": true
     }
 parameters: []
 headers:
@@ -20,7 +22,7 @@ headers:
 authentication:
   type: bearer
   token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzMwMTI2ODAsImV4cCI6MTY3MzA5OTA4MH0.1M_STYXs7whEAmkbPNejqD4lX4A4OBZpVlsuSl24Nm4
-metaSortKey: -1671790925150.75
+metaSortKey: -1671790925207
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

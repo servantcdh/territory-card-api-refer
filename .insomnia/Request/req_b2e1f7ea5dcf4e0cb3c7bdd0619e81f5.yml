@@ -1,7 +1,7 @@
 _id: req_b2e1f7ea5dcf4e0cb3c7bdd0619e81f5
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1672900112962
+modified: 1672957234942
 created: 1671786917685
 url: http://localhost:3000/auth/refreshToken
 name: 인증 토큰 갱신
@@ -21,7 +21,7 @@ headers:
     description: ""
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzI5MDAxMDYsImV4cCI6MTY3Mjk4NjUwNn0.CAuXJaStZdBKP_9qvUCr5diGOXWg17xm7BYq85eansc
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzI5NTcyMjEsImV4cCI6MTY3MzA0MzYyMX0.Xz1OtAVdDhHCXYJxgY9-id4FvRl-lHR_-459Ve6zhms
 metaSortKey: -1671792149416.5
 isPrivate: false
 settingStoreCookies: true
