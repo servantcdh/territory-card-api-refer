@@ -1,7 +1,7 @@
 _id: req_46ffae75541f4e8cafe1f6841e6fa153
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1673022958041
+modified: 1673115172203
 created: 1673022645816
 url: http://localhost:3000/card/one/1
 name: 구역 카드 업데이트
@@ -12,7 +12,8 @@ body:
   text: |-
     {
     	"name": "영통빌리지",
-    	"memo": "",
+    	"memo": "#아파트 #계단식 #자동차필요 #회중성원 #방문거절 301호 아줌마 사나움",
+    	"memoFocusUserIdx": 0,
     	"status": true
     }
 parameters: []
@@ -21,7 +22,7 @@ headers:
     value: application/json
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzMwMTI2ODAsImV4cCI6MTY3MzA5OTA4MH0.1M_STYXs7whEAmkbPNejqD4lX4A4OBZpVlsuSl24Nm4
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzMxMDE0MjAsImV4cCI6MTY3MzE4NzgyMH0.W4CrBoyYesd0cOoR_ZVKtvp_IBGBm-bfuMydXCHWZdA
 metaSortKey: -1671790925207
 isPrivate: false
 settingStoreCookies: true
