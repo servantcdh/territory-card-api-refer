@@ -1,0 +1,23 @@
+_id: req_586791b060c6464b9ad8ce0d0551a188
+type: Request
+parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
+modified: 1673336171091
+created: 1673336074244
+url: http://localhost:3000/card/one/1/1
+name: 구역 카드 복원
+description: ""
+method: PATCH
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzMzMzYxNjEsImV4cCI6MTY3MzQyMjU2MX0.nzv_sZXyqrC-HVu_T22l0DEXeCCY9axqTNu6x4-YAMQ
+metaSortKey: -1671790991240.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

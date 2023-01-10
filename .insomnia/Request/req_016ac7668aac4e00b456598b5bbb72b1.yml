@@ -1,9 +1,9 @@
 _id: req_016ac7668aac4e00b456598b5bbb72b1
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1673028809659
+modified: 1673254483512
 created: 1672047350856
-url: http://localhost:3000/assign/card/1
+url: http://localhost:3000/assign/card/2
 name: 대표전도인 배정
 description: ""
 method: PATCH
@@ -19,7 +19,7 @@ headers:
     value: application/json
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzMwMjg0ODUsImV4cCI6MTY3MzExNDg4NX0.1fGAUQI50G6RuBYJaJ5oMdJDHf_RITOG2x7sRvU0C6E
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzMyMzM3MTYsImV4cCI6MTY3MzMyMDExNn0.1AerWXxd1aEoEM8WRafCf1nW4CO0q1lBmD13XLHjkzQ
 metaSortKey: -1671790925150.75
 isPrivate: false
 settingStoreCookies: true

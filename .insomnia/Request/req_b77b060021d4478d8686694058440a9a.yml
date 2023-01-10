@@ -1,9 +1,9 @@
 _id: req_b77b060021d4478d8686694058440a9a
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1672238030723
+modified: 1673240704802
 created: 1672153710803
-url: http://localhost:3000/record/s-13/2022
+url: http://localhost:3000/record/s-13/2023
 name: 구역 배정 기록 검색
 description: ""
 method: GET
@@ -12,7 +12,7 @@ parameters: []
 headers: []
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzIyMzgwMTksImV4cCI6MTY3MjMyNDQxOX0.aUCNCeNK6oz2AnkZT80YNZ7sMDp2f1JW3CX32Sb_7v0
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzMyMzM3MTYsImV4cCI6MTY3MzMyMDExNn0.1AerWXxd1aEoEM8WRafCf1nW4CO0q1lBmD13XLHjkzQ
 metaSortKey: -1671790925049.1875
 isPrivate: false
 settingStoreCookies: true

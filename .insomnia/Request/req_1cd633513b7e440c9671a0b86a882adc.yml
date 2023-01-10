@@ -1,7 +1,7 @@
 _id: req_1cd633513b7e440c9671a0b86a882adc
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1673101432156
+modified: 1673332638769
 created: 1671791057149
 url: http://localhost:3000/file/card
 name: 구역 카드 업로드
@@ -16,14 +16,14 @@ body:
       description: ""
       type: file
       multiline: null
-      fileName: /Users/donghochoi/Downloads/card_form.xlsx
+      fileName: /Users/choidongho/Downloads/구역카드.1-영통빌리지 수정.xlsx
 parameters: []
 headers:
   - name: Content-Type
     value: multipart/form-data
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzMxMDE0MjAsImV4cCI6MTY3MzE4NzgyMH0.W4CrBoyYesd0cOoR_ZVKtvp_IBGBm-bfuMydXCHWZdA
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzMzMjUwNDgsImV4cCI6MTY3MzQxMTQ0OH0.58Tirge01kCH5zl3mm0GyIxAVWjEEU5wMsbk3xabwig
 metaSortKey: -1671791057149
 isPrivate: false
 settingStoreCookies: true
