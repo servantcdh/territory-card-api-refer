@@ -1,7 +1,7 @@
 _id: req_e2520d4836c049c6a91bf04f7a700a7d
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1673342984905
+modified: 1673429570467
 created: 1672043096597
 url: http://localhost:3000/assign/crew
 name: 팀원 배정
@@ -11,8 +11,8 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"cardAssignedIdx": 3,
-    	"userIdx": 1
+    	"cardAssignedIdx": 1,
+    	"userIdxes": []
     }
 parameters: []
 headers:
@@ -20,7 +20,7 @@ headers:
     value: application/json
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzMyMzM3MTYsImV4cCI6MTY3MzMyMDExNn0.1AerWXxd1aEoEM8WRafCf1nW4CO0q1lBmD13XLHjkzQ
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzM0MTMzODQsImV4cCI6MTY3MzQ5OTc4NH0.mf6JE97Gu2rsyoavjdaxIE6Dt19hVxi2IM_LOIupJUc
 metaSortKey: -1671790925149.1875
 isPrivate: false
 settingStoreCookies: true
