@@ -1,10 +1,10 @@
 _id: req_ce3093c01ebe4518b3f451f8bca22e9a
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1674809642917
+modified: 1674810083179
 created: 1674809625982
-url: http://localhost:3000/cart/plan/reset/4
-name: 전시대 타임 플랜 초기화
+url: http://localhost:3000/cart/plan/reset/1
+name: 전시대 타임 플랜 전도인 초기화
 description: ""
 method: DELETE
 body: {}
