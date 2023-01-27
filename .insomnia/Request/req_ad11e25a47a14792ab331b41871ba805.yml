@@ -1,9 +1,9 @@
 _id: req_ad11e25a47a14792ab331b41871ba805
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1674804737838
+modified: 1674829298452
 created: 1674804734222
-url: http://localhost:3000/cart/location/1
+url: http://localhost:3000/cart/location/2
 name: 전시대 지역 상세
 description: ""
 method: GET

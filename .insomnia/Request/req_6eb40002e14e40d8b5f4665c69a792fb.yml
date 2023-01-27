@@ -1,28 +1,19 @@
-_id: req_cc84ffb6855847f5871ffd3bb39601b2
+_id: req_6eb40002e14e40d8b5f4665c69a792fb
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1674830552466
-created: 1674794782981
-url: http://localhost:3000/cart/plan
-name: 전시대 타임 플랜 생성
+modified: 1674830456865
+created: 1674830395145
+url: http://localhost:3000/cart/0
+name: 전시대 요일 상세
 description: ""
-method: POST
-body:
-  mimeType: application/json
-  text: |-
-    {
-    	"cartDayIdx": 1,
-    	"startTime": "오후 2:00",
-    	"endTime": "오후 4:00"
-    }
+method: GET
+body: {}
 parameters: []
-headers:
-  - name: Content-Type
-    value: application/json
+headers: []
 authentication:
   type: bearer
   token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoi7LWc64-Z7Zi4Iiwic3ViIjoxLCJpYXQiOjE2NzQ3ODgwNDQsImV4cCI6MTY3NDg3NDQ0NH0.PgwrdCNyqK3vIZlaxR-y0PgaHJZFtN888xyEjrrz16w
-metaSortKey: -1670406156482.0938
+metaSortKey: -1671790924924.1875
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
