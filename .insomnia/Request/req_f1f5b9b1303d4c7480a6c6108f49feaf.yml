@@ -1,9 +1,9 @@
 _id: req_f1f5b9b1303d4c7480a6c6108f49feaf
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1674805651258
+modified: 1674833818338
 created: 1674805102243
-url: http://localhost:3000/cart/plan/location/1
+url: http://localhost:3000/cart/plan/user/1
 name: 전시대 타임 플랜 전도인 퇴장
 description: ""
 method: DELETE
