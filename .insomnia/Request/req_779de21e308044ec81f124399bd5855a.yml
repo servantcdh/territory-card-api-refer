@@ -1,7 +1,7 @@
 _id: req_779de21e308044ec81f124399bd5855a
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1672048543986
+modified: 1673594712899
 created: 1671793865147
 url: http://localhost:3000/user/one/1
 name: 사용자 정보 변경 (userIdx)

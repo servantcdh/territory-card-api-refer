@@ -1,7 +1,7 @@
 _id: req_9a3b3664bf9c4dc59b32f6f1044bb48d
 type: Request
 parentId: wrk_56b68883e7f744f8978ec95cb7ba8938
-modified: 1673429897704
+modified: 1673430854050
 created: 1672043100798
 url: http://localhost:3000/assign/card
 name: 카드 배정
